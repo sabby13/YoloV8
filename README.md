@@ -1,4 +1,4 @@
-# SENTINEL — Surveillance Video Intelligence System
+# Surveillance Video Intelligence System
 
 ## Architecture Overview
 
